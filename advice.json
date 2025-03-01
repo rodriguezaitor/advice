@@ -1,0 +1,19 @@
+[
+  {
+    "date": "2025-03-01",
+    "location": {
+      "city": "Doha",
+      "country": "Qatar",
+      "country_code": "QA"
+    },
+    "person": {
+      "name": "Hussain",
+      "nationality": "Pakistan",
+      "occupation": "Tour guide",
+      "story": "I met Hussain as my tour guide during a souq tour in Doha. He has been living in Qatar for 11 years. He used to work as a civil engineer but left the profession due to a mental illness. Now, he is happy working in what he truly loves."
+    },
+    "advice": {
+      "text": "The simple fact of being alive is amazing, and we should be grateful for it, enjoy life, and always try to make others' lives better."
+    }
+  }
+]
