@@ -10,6 +10,7 @@
       "name": "Hussain",
       "nationality": "Pakistan",
       "occupation": "Tour guide",
+      "instagram": "hussain_tourguide",
       "story": "I met Hussain as my tour guide during a souq tour in Doha. He has been living in Qatar for 11 years. He used to work as a civil engineer but left the profession due to a mental illness. Now, he is happy working in what he truly loves."
     },
     "advice": {
@@ -27,10 +28,47 @@
       "name": "Louise",
       "nationality": "South Africa",
       "occupation": "Travel agent",
+      "instagram": null,
       "story": "I met Louise during a 4x4 desert tour in Doha. She is a South African woman who has traveled extensively. She is as a travel agent and has explored many parts of the world. She was in Doha for four days before continuing her journey to the UK."
     },
     "advice": {
-      "text": "Travel more, keep collecting memories. It’s always worth the money."
+      "text": "Travel more, keep collecting memories. It's always worth the money."
+    }
+  },
+  {
+    "date": "2025-03-06",
+    "location": {
+      "city": "Rasdhoo",
+      "country": "Maldives",
+      "country_code": "MV"
+    },
+    "person": {
+      "name": "Deepak Kumar",
+      "nationality": "Indian",
+      "occupation": "Yoga instructor",
+      "instagram": "@crazyyogi_",
+      "story": "I met Deepak while diving and then went to Lemon Drop restaurant to have dinner together. He explained to me what yoga really means and we had a great talk about spirituality. He's 48 years old, lives in Goa, India, and was born in India. He's quite a traveller and has yoga instructor centers in Goa and one in Ubud, Indonesia."
+    },
+    "advice": {
+      "text": "Life is a single player game"
+    }
+  },
+  {
+    "date": "2025-03-10",
+    "location": {
+      "city": "Rasdhoo",
+      "country": "Maldives",
+      "country_code": "MV"
+    },
+    "person": {
+      "name": "Paloma",
+      "nationality": "Spanish",
+      "occupation": "Diving instructor",
+      "instagram": "pubflu",
+      "story": "Paloma was my diving instructor during all my dives in Maldives. She's from Madrid and used to be a dentist but got tired of that life. She moved to Australia for a while before ending up in Rasdhoo working as a diving instructor. She's 33 years old and has traveled extensively around the world. We had dinner together a couple of times and talked about life."
+    },
+    "advice": {
+      "text": "Don't rush, enjoy the moment, learn to say no"
     }
   }
 ]
