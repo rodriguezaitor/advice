@@ -70,5 +70,41 @@
     "advice": {
       "text": "Don't rush, enjoy the moment, learn to say no"
     }
+  },
+  {
+    "date": "2025-03-13",
+    "location": {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "country_code": "MY"
+    },
+    "person": {
+      "name": "Hakim Faizal",
+      "nationality": "Malaysian",
+      "occupation": "Tour guide",
+      "instagram": "thefirsthakimfaizal",
+      "story": "I met Hakim during a night food and drink tour in Kuala Lumpur. He was our young and energetic guide who made the experience memorable. What impressed me most was his intelligence and linguistic abilities - he spoke multiple languages and even knew some Basque, which was quite surprising! After the tour, he invited us all to have dinner together where we tried various local fruits. Later, we moved to a bar where we enjoyed drinks and shots together, making it a fun and memorable night."
+    },
+    "advice": {
+      "text": "Focus on changing the present to shape the future, not to rewrite the past. Progress doesn't require perfection—just being a bit better today than yesterday."
+    }
+  },
+  {
+    "date": "2025-03-20",
+    "location": {
+      "city": "Semporna",
+      "country": "Malaysia",
+      "country_code": "MY"
+    },
+    "person": {
+      "name": "Dan Fabian",
+      "nationality": "Romanian",
+      "occupation": "Diving instructor",
+      "instagram": "scufundari_dan_fabian",
+      "story": "I met Dan while diving in Sipadan, Mabul, and Mataking islands. He was staying at Uncle Chang's Diving Lodge in Semporna. At 52 years old, he's a fascinating technical diver who has reached depths of 150 meters in Sipadan. He had returned to Malaysia to attempt breaking a national record by reaching 200 meters. Diving is a technical sport where you need to be attentive to every detail and prepare both mentally and physically."
+    },
+    "advice": {
+      "text": "Each moment in life has its perfect timing. While you can do things later, they won't have the same impact. Every phase of life comes with its own opportunities - seize them when they arrive."
+    }
   }
 ]
