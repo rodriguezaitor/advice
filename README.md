@@ -36,3 +36,9 @@ _Diving instructor in Semporna, Malaysia • March 20, 2025_
 [Instagram: @scufundari_dan_fabian](https://www.instagram.com/scufundari_dan_fabian)
 
 > "Each moment in life has its perfect timing. While you can do things later, they won't have the same impact. Every phase of life comes with its own opportunities - seize them when they arrive."
+
+**Catalina from Chile**  
+_Economist in Arugam Bay, Sri Lanka • July 20, 2025_  
+[Instagram: @cata_garciav](https://www.instagram.com/cata_garciav)
+
+> "Sé MUY consciente de tu mortalidad. Me explico. Creo que frases como YOLO y Carpe Diem apuntan a la idea de que sólo se vive una vez y hay que aprovechar la vida, etc, pero si no te paras realmente a imaginártelo, imaginar el día que sea el último, son sólo frases vacías. Cuando realmente te das cuenta de que va en serio, de que de verdad que tu vida va a acabar en un momento, vives con más conciencia, apreciando a fondo el regalo del tiempo que tienes aquí. Al menos a mí me pasa así."
